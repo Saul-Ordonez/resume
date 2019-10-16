@@ -1,3 +1,19 @@
 .education {
-  
+  border-color: blue;
+  border-style: solid;
+}
+
+.important {
+  text-decoration: underline;
+  color: green;
+}
+
+.number {
+  float: right;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  float: right;
 }
